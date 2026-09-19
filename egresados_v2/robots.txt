@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config/
+Disallow: /api/
+Disallow: /404.php
+Disallow: /500.php
+
+Sitemap: https://miinstitución.edu.co/observatorio/sitemap.xml

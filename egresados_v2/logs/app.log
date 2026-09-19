@@ -1,0 +1,7 @@
+[2026-09-12 09:17:15] [WARN] Solicitud rechazada por validación: Debes aceptar la política de tratamiento de datos personales. (IP ::1, /egresados_v2/guardar_solicitud.php)
+[2026-09-12 09:17:15] [WARN] Solicitud rechazada por validación: Número de documento inválido. (IP ::1, /egresados_v2/guardar_solicitud.php)
+[2026-09-12 09:17:15] [INFO] Solicitud creada: id=23 tipo=nueva. (IP ::1, /egresados_v2/guardar_solicitud.php)
+[2026-09-12 09:17:15] [INFO] Solicitud creada: id=24 tipo=nueva. (IP ::1, /egresados_v2/guardar_solicitud.php)
+[2026-09-12 09:17:15] [INFO] Solicitud creada: id=25 tipo=edicion. (IP ::1, /egresados_v2/guardar_solicitud.php)
+[2026-09-12 09:17:15] [WARN] Payload rechazado: 2500351 bytes (max 2097152). (IP ::1, /egresados_v2/guardar_solicitud.php)
+[2026-09-12 09:17:16] [WARN] Intento de subida de archivo no permitido en este formulario. (IP ::1, /egresados_v2/guardar_solicitud.php)

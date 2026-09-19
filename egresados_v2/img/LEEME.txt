@@ -1,0 +1,14 @@
+Imágenes que el sitio espera encontrar en esta carpeta (no las genero yo,
+son fotos/diseños propios del colegio):
+
+  logo.png          -> logo del I.E.T. Francisco Manzanera Henríquez
+  egresados.jpg      -> foto de fondo del hero en index.php
+  desarrollo.jpg      -> tarjeta "Desarrollo de Software"
+  multimedia.jpg      -> tarjeta "Contenidos Digitales"
+  redes.jpg           -> tarjeta "Redes"
+  paneles.jpg         -> tarjeta "Paneles Solares"
+
+Si falta alguna, el sitio NO se rompe: el logo simplemente se oculta
+(hay un error en el <img>) y las tarjetas de técnicas muestran un
+fondo verde claro sólido en vez de la foto (ya está definido en
+css/estilos.css como color de respaldo).
