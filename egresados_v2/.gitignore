@@ -1,0 +1,14 @@
+# --- Secretos y entorno ---
+.env
+
+# --- Archivos de base de datos (contienen esquema e info sensible) ---
+*.sql
+
+# --- Logs ---
+*.log
+logs/*
+!logs/.htaccess
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
